@@ -10,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: picture.jpg
+    content: about_olivier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Osiris R36 - O1DE10</p>
+      <p>7 boulevard Gaspard Monge</p>
+      <p>91120 Palaiseau</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: picture.jpg
+    content: about_olivier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Osiris R36 - O1DE10</p>
+      <p>7 boulevard Gaspard Monge</p>
+      <p>91120 Palaiseau</p>
 ---

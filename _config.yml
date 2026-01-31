@@ -2,14 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Olivier Juan  # the website title (if blank, full name will be used instead)
+first_name: Olivier
+middle_name: 
+last_name: Juan
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: Senior Research Scientist | EDF R&D | Optimization & Machine Learning & Computer Vision | PhD in Applied Mathematics
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -23,6 +22,15 @@ baseurl: /mal-folio.github.io # the subpath of your site, e.g. /blog/. Leave bla
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+
+
+social_links:         # Remplit le footer
+  google_scholar: Ay-ul4AAAAAJ  # 
+  linkedin: olivier-juan-732a07ba # [14]
+  research_gate: Olivier-Juan    # 
+  orcid: 0000-0003-3445-4847
+  github: olivierjuan
+
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -281,8 +289,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Juan]
+  first_name: [Olivier]
 
   style: apa
   locale: en

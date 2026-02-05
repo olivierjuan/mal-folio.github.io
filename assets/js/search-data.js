@@ -430,9 +430,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
+          title: 'A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
+          description: "A principled reinforcement learning formulation for learning optimal branching heuristics in MILP solvers.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/1_project/";
             },},{id: "projects-project-2",

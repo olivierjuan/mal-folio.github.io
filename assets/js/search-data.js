@@ -475,6 +475,11 @@ ninja.data = [{
           description: "A principled reinforcement learning formulation for learning optimal branching heuristics in MILP solvers.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/bbmdp/";
+            },},{id: "projects-planb-amp-b-model-based-rl-for-branch-and-bound",
+          title: 'PlanB&amp;amp;B: Model-Based RL for Branch-and-Bound',
+          description: "First MBRL agent for exact combinatorial optimization, achieving state-of-the-art performance on MILP benchmarks",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/planbb/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

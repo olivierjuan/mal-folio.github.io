@@ -430,12 +430,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
-          title: 'A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
-          description: "A principled reinforcement learning formulation for learning optimal branching heuristics in MILP solvers.",
-          section: "Projects",handler: () => {
-              window.location.href = "/mal-folio.github.io/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -475,6 +470,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/9_project/";
+            },},{id: "projects-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
+          title: 'A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
+          description: "A principled reinforcement learning formulation for learning optimal branching heuristics in MILP solvers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/bbmdp/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

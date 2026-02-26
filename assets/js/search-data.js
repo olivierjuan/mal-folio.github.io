@@ -480,6 +480,11 @@ ninja.data = [{
           description: "First RL approach to fully optimize branching strategy from scratch. Novel value function using subtree size for learning efficient MILP variable selection.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/fmsts/";
+            },},{id: "projects-low-nox-configurations-in-an-industrial-boiler-via-genetic-algorithm-amp-cfd",
+          title: 'Low NOx Configurations in an Industrial Boiler via Genetic Algorithm &amp;amp; CFD',
+          description: "Coupling a genetic algorithm with CFD simulations (Code_Saturne) to automatically discover optimal operating configurations for a 600 MW tangentially-fired pulverized-coal boiler, minimizing NOx emissions while controlling corrosion risk.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/low_nox_boiler/";
             },},{id: "projects-planb-amp-b-model-based-rl-for-branch-and-bound",
           title: 'PlanB&amp;amp;B: Model-Based RL for Branch-and-Bound',
           description: "MuZero for CO: First MBRL agent for exact combinatorial optimization, achieving state-of-the-art performance on MILP benchmarks",
@@ -510,6 +515,13 @@ ninja.data = [{
           window.open("mailto:%6F%6C%69%76%69%65%72.%6A%75%61%6E@%65%64%66.%66%72", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/olivierjuan", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -529,13 +541,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3445-4847", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/olivierjuan", "_blank");
         },
       },{
         id: 'social-linkedin',

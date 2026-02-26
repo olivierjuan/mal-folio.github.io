@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_4/";
-            },},{id: "news-honorable-mention-at-mipcc23-for-paul-strang",
-          title: 'Honorable Mention at MIPcc23 for Paul Strang',
+            },},{id: "news-congrats-paul-strang-for-you-honorable-mention-at-mipcc23",
+          title: 'Congrats Paul Strang for you Honorable Mention at MIPcc23',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_6/";

@@ -420,6 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_4/";
+            },},{id: "news-honorable-mention-at-mipcc23-for-paul-strang",
+          title: 'Honorable Mention at MIPcc23 for Paul Strang',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/mal-folio.github.io/news/announcement_6/";
             },},{id: "news-bbmdp-accepted-at-neurips-2025",
           title: 'BBMDP accepted at NeurIPS 2025',
           description: "",

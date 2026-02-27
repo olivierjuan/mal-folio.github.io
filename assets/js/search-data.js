@@ -87,16 +87,6 @@ ninja.data = [{
           description: "First model-based RL agent for exact combinatorial optimization. PlanB&amp;B learns an internal model of B&amp;B dynamics and uses Gumbel Search (MCTS) to discover branching strategies that surpass both prior RL agents and imitation learning. AAAI 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/planbb/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/mal-folio.github.io/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/mal-folio.github.io/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',

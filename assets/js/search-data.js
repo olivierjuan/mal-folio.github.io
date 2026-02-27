@@ -490,9 +490,9 @@ ninja.data = [{
           description: "Coupling a genetic algorithm with CFD simulations (Code_Saturne) to automatically discover optimal operating configurations for a 600 MW tangentially-fired pulverized-coal boiler, minimizing NOx emissions while controlling corrosion risk.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/low_nox_boiler/";
-            },},{id: "projects-planb-amp-b-model-based-rl-for-branch-and-bound",
-          title: 'PlanB&amp;amp;B: Model-Based RL for Branch-and-Bound',
-          description: "First model-based RL agent for exact combinatorial optimization — uses MCTS over a learned B&amp;B dynamics model to discover branching strategies that surpass expert heuristics.",
+            },},{id: "projects-planb-amp-b-model-based-reinforcement-learning-for-branch-and-bound",
+          title: 'PlanB&amp;amp;B: Model-Based Reinforcement Learning for Branch and Bound',
+          description: "First model-based RL agent for exact combinatorial optimization. PlanB&amp;B learns an internal model of B&amp;B dynamics and uses Gumbel Search (MCTS) to discover branching strategies that surpass both prior RL agents and imitation learning. AAAI 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/planbb/";
             },},{id: "teachings-data-science-fundamentals",

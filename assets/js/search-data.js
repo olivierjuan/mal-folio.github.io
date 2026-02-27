@@ -482,7 +482,7 @@ ninja.data = [{
               window.location.href = "/mal-folio.github.io/projects/bbmdp/";
             },},{id: "projects-fmsts-reinforcement-learning-for-variable-selection-in-branch-and-bound",
           title: 'FMSTS: Reinforcement Learning for Variable Selection in Branch and Bound',
-          description: "First RL approach to fully optimize branching strategy from scratch. Novel value function using subtree size for learning efficient MILP variable selection.",
+          description: "First RL approach to fully optimize branching strategy in B&amp;B from scratch. Introduces subtree size as a naturally observable Q-function, with a novel Multiplicative Dueling Architecture (MDA) for MILP variable selection.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/fmsts/";
             },},{id: "projects-low-nox-configurations-in-an-industrial-boiler-via-genetic-algorithm-amp-cfd",

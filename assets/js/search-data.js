@@ -475,9 +475,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/9_project/";
-            },},{id: "projects-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
-          title: 'A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
-          description: "A principled reinforcement learning formulation for learning optimal branching heuristics in MILP solvers.",
+            },},{id: "projects-bbmdp-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
+          title: 'BBMDP: A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
+          description: "A principled vanilla MDP formulation for learning optimal branching strategies in MILP solvers, unlocking k-step RL algorithms previously incompatible with the TreeMDP framework. New state-of-the-art among RL agents on the Ecole benchmark. NeurIPS 2025.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/bbmdp/";
             },},{id: "projects-fmsts-reinforcement-learning-for-variable-selection-in-branch-and-bound",

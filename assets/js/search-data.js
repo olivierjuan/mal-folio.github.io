@@ -510,7 +510,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/mal-folio.github.io/assets/rendercv/rendercv_output/CV.pdf", "_blank");
+          window.open("/mal-folio.github.io/assets/rendercv/rendercv_output/Olivier_Juan_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',

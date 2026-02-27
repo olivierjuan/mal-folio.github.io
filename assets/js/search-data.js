@@ -59,12 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/mal-folio.github.io/books/the_godfather/";
-            },},{id: "news-fmsts-accepted-at-cpaior-2020",
+      },{id: "news-fmsts-accepted-at-cpaior-2020",
           title: 'FMSTS accepted at CPAIOR 2020',
           description: "",
           section: "News",handler: () => {

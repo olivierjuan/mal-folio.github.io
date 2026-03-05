@@ -72,6 +72,11 @@ ninja.data = [{
           description: "A principled vanilla MDP formulation for learning optimal branching strategies in MILP solvers, unlocking k-step RL algorithms previously incompatible with the TreeMDP framework. New state-of-the-art among RL agents on the Ecole benchmark. NeurIPS 2025.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/bbmdp/";
+            },},{id: "projects-dreev-v2g-fleet-dispatch-for-frequency-containment-reserve",
+          title: 'DREEV: V2G Fleet Dispatch for Frequency Containment Reserve',
+          description: "MILP formulation and algorithm development for optimal EV fleet dispatch providing Frequency Containment Reserve (FCR) services to the French grid. Part of EDF R&amp;D&#39;s Smart Charging P11L1 program, in collaboration with DREEV (EDF–Nuvve joint venture).",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/dreev/";
             },},{id: "projects-fmsts-reinforcement-learning-for-variable-selection-in-branch-and-bound",
           title: 'FMSTS: Reinforcement Learning for Variable Selection in Branch and Bound',
           description: "First RL approach to fully optimize branching strategy in B&amp;B from scratch. Introduces subtree size as a naturally observable Q-function, with a novel Multiplicative Dueling Architecture (MDA) for MILP variable selection.",

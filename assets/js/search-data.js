@@ -68,7 +68,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_1/";
             },},{id: "news-gyozas-released-a-pure-python-rl-library-for-combinatorial-optimization",
-          title: 'Gyozas released: a pure-Python RL library for combinatorial optimization',
+          title: '🥟 Gyozas 🥟 released: a pure-Python RL library for combinatorial optimization',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_7/";

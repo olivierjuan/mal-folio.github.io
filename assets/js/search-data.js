@@ -67,6 +67,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_1/";
+            },},{id: "news-gyozas-released-a-pure-python-rl-library-for-combinatorial-optimization",
+          title: 'Gyozas released: a pure-Python RL library for combinatorial optimization',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/mal-folio.github.io/news/announcement_7/";
+            },},{id: "projects-apogène",
+          title: 'Apogène',
+          description: "EDF&#39;s short-term unit commitment software — from ground-up redesign to production deployment at scale.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/apogene/";
             },},{id: "projects-bbmdp-a-markov-decision-process-for-variable-selection-in-branch-amp-bound",
           title: 'BBMDP: A Markov Decision Process for Variable Selection in Branch &amp;amp; Bound',
           description: "A principled vanilla MDP formulation for learning optimal branching strategies in MILP solvers, unlocking k-step RL algorithms previously incompatible with the TreeMDP framework. New state-of-the-art among RL agents on the Ecole benchmark. NeurIPS 2025.",
@@ -82,6 +92,11 @@ ninja.data = [{
           description: "First RL approach to fully optimize branching strategy in B&amp;B from scratch. Introduces subtree size as a naturally observable Q-function, with a novel Multiplicative Dueling Architecture (MDA) for MILP variable selection.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/fmsts/";
+            },},{id: "projects-gyozas",
+          title: 'Gyozas',
+          description: "A pure-Python reinforcement learning library for combinatorial optimization, built on PySCIPOpt and Gymnasium.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/gyozas/";
             },},{id: "projects-low-nox-configurations-in-an-industrial-boiler-via-genetic-algorithm-amp-cfd",
           title: 'Low NOx Configurations in an Industrial Boiler via Genetic Algorithm &amp;amp; CFD',
           description: "Coupling a genetic algorithm with CFD simulations (Code_Saturne) to automatically discover optimal operating configurations for a 600 MW tangentially-fired pulverized-coal boiler, minimizing NOx emissions while controlling corrosion risk.",
@@ -119,13 +134,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=Ay-ul4AAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0003-3445-4847", "_blank");
         },
       },{
         id: 'social-github',

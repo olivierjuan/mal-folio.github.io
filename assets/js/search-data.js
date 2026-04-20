@@ -41,32 +41,32 @@ ninja.data = [{
           title: 'FMSTS accepted at CPAIOR 2020',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_3/";
+              window.location.href = "/mal-folio.github.io/news/announcement_4/";
             },},{id: "news-dreev-becomes-first-french-ev-aggregator-accredited-for-fcr-by-rte",
           title: 'DREEV becomes first French EV aggregator accredited for FCR by RTE',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_5/";
+              window.location.href = "/mal-folio.github.io/news/announcement_2/";
             },},{id: "news-apogène-awarded-the-indusro-39-2022-prize",
           title: 'Apogène awarded the IndusRO&amp;#39;2022 prize',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_4/";
+              window.location.href = "/mal-folio.github.io/news/announcement_3/";
             },},{id: "news-congrats-paul-strang-for-you-honorable-mention-at-mipcc23",
           title: 'Congrats Paul Strang for you Honorable Mention at MIPcc23',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_6/";
+              window.location.href = "/mal-folio.github.io/news/announcement_1/";
             },},{id: "news-bbmdp-accepted-at-neurips-2025",
           title: 'BBMDP accepted at NeurIPS 2025',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_2/";
+              window.location.href = "/mal-folio.github.io/news/announcement_5/";
             },},{id: "news-planb-amp-b-accepted-at-aaai-2026",
           title: 'PlanB&amp;amp;B accepted at AAAI 2026',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/mal-folio.github.io/news/announcement_1/";
+              window.location.href = "/mal-folio.github.io/news/announcement_6/";
             },},{id: "news-gyozas-released-a-pure-python-rl-library-for-combinatorial-optimization",
           title: '🥟 Gyozas 🥟 released: a pure-Python RL library for combinatorial optimization',
           description: "",

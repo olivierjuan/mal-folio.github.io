@@ -97,6 +97,11 @@ ninja.data = [{
           description: "A pure-Python reinforcement learning library for combinatorial optimization, built on PySCIPOpt and Gymnasium.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/gyozas/";
+            },},{id: "projects-influence-branching-for-learning-to-solve-mips-online",
+          title: 'Influence Branching for Learning to Solve MIPs Online',
+          description: "A graph-oriented variable selection strategy combined with Thompson sampling to learn branching heuristics online across sequences of similar MIP instances. Submitted to the 20th Mixed Integer Program Workshop computational competition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/mal-folio.github.io/projects/influence_branching/";
             },},{id: "projects-low-nox-configurations-in-an-industrial-boiler-via-genetic-algorithm-amp-cfd",
           title: 'Low NOx Configurations in an Industrial Boiler via Genetic Algorithm &amp;amp; CFD',
           description: "Coupling a genetic algorithm with CFD simulations (Code_Saturne) to automatically discover optimal operating configurations for a 600 MW tangentially-fired pulverized-coal boiler, minimizing NOx emissions while controlling corrosion risk.",

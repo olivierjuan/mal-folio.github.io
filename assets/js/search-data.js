@@ -94,7 +94,7 @@ ninja.data = [{
               window.location.href = "/mal-folio.github.io/projects/fmsts/";
             },},{id: "projects-gyozas",
           title: 'Gyozas',
-          description: "A pure-Python reinforcement learning library for combinatorial optimization, built on PySCIPOpt and Gymnasium.",
+          description: "An open-source RL framework for MILP. Ecole-style API with SCIP 8+ support and a Gymnasium-compatible interface.",
           section: "Projects",handler: () => {
               window.location.href = "/mal-folio.github.io/projects/gyozas/";
             },},{id: "projects-influence-branching-for-learning-to-solve-mips-online",

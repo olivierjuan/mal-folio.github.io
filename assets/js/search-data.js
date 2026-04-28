@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/mal-folio.github.io/news/announcement_7/";
+            },},{id: "news-paul-strang-39-s-phd-thesis-defense-may-28-2026",
+          title: 'Paul Strang&amp;#39;s PhD Thesis Defense — May 28, 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/mal-folio.github.io/news/announcement_8/";
             },},{id: "projects-apogène",
           title: 'Apogène',
           description: "EDF&#39;s short-term unit commitment software — from ground-up redesign to production deployment at scale.",
